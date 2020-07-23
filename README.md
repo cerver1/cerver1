@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+I’m currently learning 💡🚀
+▪ Android Development
+▪ Kotlin
+
+![Cerve's github stats](https://github-readme-stats.vercel.app/api?username=cerver1&show_icons=true)
+
