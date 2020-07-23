@@ -1,4 +1,11 @@
-### “To live is to choose. But to choose well, you must know who you are and what you stand for, where you want to go, and why you want to get there.” - Kofi Annan
+
+<p align="center">
+  <img src="https://github.com/cerver1/cerver1/blob/master/v3-dev_banner.png" hieght ='20'>
+</p>
+
+<p align="center">
+  “To live is to choose. But to choose well, you must know who you are and what you stand for, where you want to go, and why you want to get there.” - Kofi Annan
+</p>
 
 <!--
 **cerver1/cerver1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +22,13 @@ Here are some ideas to get you started:
 
 -->
   
+<p align="center"/>
+  🖤 like what you see? follow my for more!
+</p>
+
+<p align="center"/>
+  🖤 Join me on Instagram @cerve.1 (https://www.instagram.com/cerve.1/)
+</p>
+
 ![Cerve's github stats](https://github-readme-stats.vercel.app/api?username=cerver1&show_icons=true)
+
