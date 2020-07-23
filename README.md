@@ -1,4 +1,4 @@
-### Hi there 👋
+### “To live is to choose. But to choose well, you must know who you are and what you stand for, where you want to go, and why you want to get there.” - Kofi Annan
 
 <!--
 **cerver1/cerver1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 
 -->
-
-- ⚡ Fun Opinion 
-  Kotlin is King!
   
 ![Cerve's github stats](https://github-readme-stats.vercel.app/api?username=cerver1&show_icons=true)
