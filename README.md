@@ -12,13 +12,10 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
 
-
-I’m currently learning 💡🚀
-▪ Android Development
-▪ Kotlin
-
+- ⚡ Fun Opinion 
+  Kotlin is King!
+  
 ![Cerve's github stats](https://github-readme-stats.vercel.app/api?username=cerver1&show_icons=true)
-
