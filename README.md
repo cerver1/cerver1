@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/cerver1/cerver1/blob/master/v3-dev_banner.png" hieght ='20'>
+  <img src="https://github.com/cerver1/cerver1/blob/master/v4-github-banner.png" hieght ='20'>
 </p>
 
 <p align="center">
