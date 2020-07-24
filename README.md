@@ -30,5 +30,9 @@ Here are some ideas to get you started:
   🖤 Join me on Instagram @cerve.1 (https://www.instagram.com/cerve.1/)
 </p>
 
-![Cerve's github stats](https://github-readme-stats.vercel.app/api?username=cerver1&show_icons=true)
+<p align="center" >
+  <a href="https://github.com/anuraghazra/github-readme-stats"> 
+    <img  src="https://github-readme-stats.vercel.app/api?username=cerver1&&show_icons=true&theme=default"/>
+  </a>
+</p>
 
