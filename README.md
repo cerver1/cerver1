@@ -11,7 +11,7 @@
 - 💬 Ask me about any and everything Android related.
 - 📫 How to reach me: cerve.v55@gmail.com.
 
-|My github statistics|My languages|Streaks|
+|Streak|Gitub Statistics|Languages|
 |-|-|-|
 |![cerver1](https://github-readme-streak-stats.herokuapp.com/?user=cerver1&theme=dark)|[![cerver1's github stats](https://github-readme-stats.vercel.app/api?username=cerver1&show_icons=true&theme=dark&hide_title=true)](https://github.com/cerver1)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cerver1&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/cerver1)
 
