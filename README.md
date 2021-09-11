@@ -7,7 +7,7 @@
  
 - 🌱 I’m currently learning Jetpack Compose and it's best practices.
 - 👯 I’m looking to collaborate on any Android/Python related projects.
-- 👾 Fun fact: When i'm not working on a project, I love to hike & play soccer.
+- 👾 Fun fact: When i'm not working on a project, i'm hiking or playing soccer.
 - 💬 Ask me about any and everything Android related.
 - 📫 How to reach me: cerve.v55@gmail.com.
 
